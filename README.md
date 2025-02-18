@@ -31,4 +31,4 @@ This generates a `dist/` folder, which should be moved to `backend/build/`.
 
 ## Live Demo
 View the deployed portfolio on Vercel:  
-[**Live Portfolio**](https://your-vercel-deployment-url.vercel.app/)
+[**Live Portfolio**](https://assessment-q0dw.shuttle.app/)
