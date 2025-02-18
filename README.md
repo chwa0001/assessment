@@ -8,11 +8,11 @@ The backend is built using Rust with the Actix Web framework. It serves as a lig
 - The backend routes are defined in `backend/src/routes/`.
 
 ### Running the Backend
-Ensure Rust and Cargo are installed, then run:
+Ensure Rust, Cargo, Shuttle are installed, then run:
 
 ```sh
 cd backend
-cargo run
+shuttle run
 ```
 
 ## Frontend (React + Vite)
